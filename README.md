@@ -1,0 +1,2 @@
+# cedf659d4a327ae9-dental-practice-vendor-managem
+The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Dental Practice Vendor Management And Procurement — fully configured and read
